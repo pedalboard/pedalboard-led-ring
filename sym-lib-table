@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pedalboard-led-ring")(type "KiCad")(uri "${KIPRJMOD}/pedalboard-led-ring.kicad_sym")(options "")(descr ""))
+)

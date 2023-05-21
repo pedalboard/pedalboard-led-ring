@@ -5,8 +5,12 @@
 ### LED unit
 
 * Driver: 
-  - https://www.digikey.ch/de/products/detail/analog-devices-inc/LT3494EDDB-TRPBF/1985676
+  - https://www.digikey.de/en/products/detail/texas-instruments/TLC59731DR/3926688
   - https://www.ti.com/product/TLC59731
+
+  - https://www.digikey.ch/en/products/detail/texas-instruments/TLC5973DR/4251271 
+  - https://www.ti.com/product/TLC5973
+
 
 * LEDs: 
   - https://www.digikey.ch/de/products/detail/harvatek-corporation/B3803FCH-20C001112U1930/13588742
