@@ -1,0 +1,62 @@
+name: "Generate output"
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    paths:
+      - '*.kicad_sch'
+      - '*.kicad_pcb'
+      - '.github/workflows/ci.yml'
+      - 'pedalboard-led-ring.kibot.yaml'
+  pull_request:
+    paths:
+      - '*.kicad_sch'
+      - '*.kicad_pcb'
+      - '.github/workflows/ci.yml'
+      - 'pedalboard-led-ring.kibot.yaml'
+  repository_dispatch:
+    types: [run_qs]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  kibot:
+    runs-on: ubuntu-latest
+    container: ghcr.io/inti-cmnb/kicad7_auto_full:latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        # So we can run a diff between last 2 changes
+        fetch-depth: '0'
+
+    - name: Kibot Generator
+      run: |
+        kibot -e pedalboard-led-ring.kicad_sch -d generated
+    - name: Retrieve results
+      uses: actions/upload-artifact@v3
+      with:
+        name: generated_outputs
+        path: generated
+
+# This step is to upload the results to another repo (web pages)
+  deploy:
+    runs-on: ubuntu-latest
+    needs: kibot
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Retrieve results
+      uses: actions/download-artifact@v3
+      with:
+        name: generated_outputs
+        path: generated
+
+    - name: Deploy navigate results
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
+      with:
+        branch: main
+        folder: generated
+        repository-name: pedalboard/pedalboard-led-ring-site
+        token: ${{ secrets.DEPLOY_TO_PEDALBOARD_HW_SITE }}
