@@ -14,6 +14,7 @@
 
 * LEDs: 
   - https://www.digikey.ch/de/products/detail/harvatek-corporation/B3803FCH-20C001112U1930/13588742
+  - https://www.harvatek.com/files/PCB%20Full%20Color_B3803.pdf
 
 ### Power supply
 
