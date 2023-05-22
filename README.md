@@ -1,5 +1,8 @@
 # An adressable LED ring around foot button
 
+A pcb that can create a RGB color ring around a foot button.
+The led rings can be cascaded and addressed via a single serial line.
+
 ## Components
 
 ### LED unit
