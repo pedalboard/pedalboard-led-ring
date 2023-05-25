@@ -25,6 +25,11 @@ The led rings can be cascaded and addressed via a single serial line.
   - https://www.digikey.ch/de/products/detail/analog-devices-inc/LT3494AEDDB-TRPBF/1767840
   - https://www.analog.com/en/products/lt3494.html#product-overview
 
+
+* L 
+ - https://www.digikey.ch/de/products/detail/murata-electronics/LQH32CN150K53L/1016219
+ - https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0030.pdf
+
 * Step Up Converter 100mA (350mA):
   - https://www.digikey.ch/en/products/detail/analog-devices-inc/LT1615IS5-1-TRPBF/961186
   - https://www.analog.com/en/products/lt1615.html
