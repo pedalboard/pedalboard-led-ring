@@ -2019,7 +2019,7 @@
     (property "Value" "LT3494AEDDBPBF" (at 87.63 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "DFN300X200X80-9N" (at 87.63 44.45 0)
+    (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm" (at 87.63 44.45 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3494fb.pdf" (at 87.63 44.45 0)
