@@ -13,7 +13,7 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are
 
 ## Fabrication
 
-* [Generated iBOM](https://pedalboard.github.io/pedalboard-hw-site/Assembly/pedalboard-hw-ibom.html)
+* [Generated iBOM](https://pedalboard.github.io/pedalboard-led-ring-site/Assembly/pedalboard-led-ring-ibom.html)
 * [Digi-Key shared list](https://www.digikey.ch/de/mylists/list/FIXME)
 * [PCBWay manifacturing](https://www.pcbway.com/project/shareproject/FIXME.html)
 
