@@ -1129,10 +1129,10 @@ outputs:
     rotate_z: -2
     zoom: 3
 - name: basic_render_3d_bottom_30deg
-  comment: 3D view from 30 degrees
+  comment: 3D bottom view from 30 degrees
   type: render_3d
   dir: 3D
-  output_id: 30deg
+  output_id: 30deg-bottom
   options:
     ray_tracing: true
     board: '#ffffff' 
