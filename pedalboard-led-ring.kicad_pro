@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|87339800|71746000|f45a6c8f-a7f8-4283-955b-14682f637225|c688743d-6b0e-46f0-ac0c-2f5e7bba6718|B.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -190,9 +192,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|622300|1358900|50240c6d-9399-4d82-bdae-6a18828bab05|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
