@@ -6,39 +6,16 @@ The led rings can be cascaded and addressed via a single serial line.
 ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg.png)
 ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg-bottom.png)
 
-## Components
 
-### LED unit
+## Generated Hardware Documentation
 
-* Driver: 
-  - https://www.digikey.de/en/products/detail/texas-instruments/TLC59731DR/3926688
-  - https://www.ti.com/product/TLC59731
+Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
 
-  - https://www.digikey.ch/en/products/detail/texas-instruments/TLC5973DR/4251271 
-  - https://www.ti.com/product/TLC5973
+## Fabrication
 
+* [Generated iBOM](https://pedalboard.github.io/pedalboard-hw-site/Assembly/pedalboard-hw-ibom.html)
+* [Digi-Key shared list](https://www.digikey.ch/de/mylists/list/FIXME)
+* [PCBWay manifacturing](https://www.pcbway.com/project/shareproject/FIXME.html)
 
-* LEDs: 
-  - https://www.digikey.ch/de/products/detail/harvatek-corporation/B3803FCH-20C001112U1930/13588742
-  - https://www.harvatek.com/files/PCB%20Full%20Color_B3803.pdf
-
-### Power supply
-
-* Step Up Converter 180mA (360mA):
-  - https://www.digikey.ch/de/products/detail/analog-devices-inc/LT3494AEDDB-TRPBF/1767840
-  - https://www.analog.com/en/products/lt3494.html#product-overview
-
-
-* L 
- - https://www.digikey.ch/de/products/detail/murata-electronics/LQH32CN150K53L/1016219
- - https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0030.pdf
-
-* Step Up Converter 100mA (350mA):
-  - https://www.digikey.ch/en/products/detail/analog-devices-inc/LT1615IS5-1-TRPBF/961186
-  - https://www.analog.com/en/products/lt1615.html
-
-* Step Up Converter 25mA (for single unit):
-  - https://www.digikey.ch/en/products/detail/analog-devices-inc/LT8410IDC-TRMPBF/1985712
-  - https://www.analog.com/en/products/lt8410.html#product-overview
 
 
