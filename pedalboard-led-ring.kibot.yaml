@@ -1127,7 +1127,20 @@ outputs:
     solder_mask: '#ffffff'
     rotate_x: 3
     rotate_z: -2
-    zoom: 5
+    zoom: 3
+- name: basic_render_3d_bottom_30deg
+  comment: 3D view from 30 degrees
+  type: render_3d
+  dir: 3D
+  output_id: 30deg
+  options:
+    ray_tracing: true
+    board: '#ffffff' 
+    silk: '#000000'
+    solder_mask: '#ffffff'
+    rotate_x: -3
+    rotate_z: 2
+    zoom: 3
 - name: basic_render_3d_bottom
   comment: 3D view from bottom
   type: render_3d
