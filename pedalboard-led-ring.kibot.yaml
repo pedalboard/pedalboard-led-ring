@@ -1138,7 +1138,7 @@ outputs:
     board: '#ffffff' 
     silk: '#000000'
     solder_mask: '#ffffff'
-    rotate_x: -10
+    rotate_x: -14
     rotate_z: 2
     zoom: 3
 - name: basic_render_3d_bottom
