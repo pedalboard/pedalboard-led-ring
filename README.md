@@ -18,4 +18,8 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are
 * [PCBWay manifacturing](https://www.pcbway.com/project/shareproject/FIXME.html)
 
 
+## Additional mechanical components
+
+* Foot switch actuator: https://www.cliffuk.co.uk/products/switches/FC7125.pdf
+* Lens: https://plastics-rubber.basf.com/global/de/performance_polymers/products/ultramid.html
 
