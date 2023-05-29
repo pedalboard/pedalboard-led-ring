@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Pedalboard LED ring")
+    (date "2023-05-29")
+    (rev "1.0.0")
+    (company "https://github.com/pedalboard")
+    (comment 1 "Source Code: https://github.com/pedalboard/pedalboard-led-ring")
+    (comment 2 "License: CERN Open Hardware Licence Version 2 - Permissive")
+  )
+
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
