@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "starved_thermal|87325000|71750000|f45a6c8f-a7f8-4283-955b-14682f637225|1afffbf1-c717-439a-9f6d-73302af248b5|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -99,7 +97,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -193,7 +191,9 @@
   },
   "erc": {
     "erc_exclusions": [
-      "power_pin_not_driven|495300|1358900|50240c6d-9399-4d82-bdae-6a18828bab05|00000000-0000-0000-0000-000000000000|||"
+      "power_pin_not_driven|495300|1358900|50240c6d-9399-4d82-bdae-6a18828bab05|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|762000|431800|84276363-4110-4ac7-b160-4198fabf0223|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|762000|584200|1f092833-4e7e-4b4f-9e38-ee7300b745de|00000000-0000-0000-0000-000000000000|||"
     ],
     "meta": {
       "version": 0
@@ -456,18 +456,13 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "PSU",
-        "pattern": "VCC"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
