@@ -1,5 +1,7 @@
 # An adressable RGB LED ring around foot button
 
+NOTE: In favour of the pedalboard-neopixel-ring project, this project will currently not be further developed
+
 A pcb that can create a RGB color ring around a foot button.
 The led rings can be cascaded and addressed via a single serial line.
 
