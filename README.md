@@ -4,6 +4,9 @@ A pcb that can create a RGB color ring around a foot button.
 Each of the 12 LEDs on the ring can get an individual color.
 The led rings can be cascaded and addressed via a single serial line.
 
+There are multiple connector ports:
+
+- 2 x SMD Sockets (2mm, 4 Pins) in the center line and on the diagnoal
 
 ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg.png)
 ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg-bottom.png)
