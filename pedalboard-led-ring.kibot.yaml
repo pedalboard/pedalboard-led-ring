@@ -1114,6 +1114,7 @@ outputs:
     board: '#ffffff' 
     silk: '#000000'
     solder_mask: '#ffffff'
+    no_tht: true
     zoom: 9
 - name: basic_render_3d_30deg
   comment: 3D view from 30 degrees
@@ -1127,6 +1128,7 @@ outputs:
     solder_mask: '#ffffff'
     rotate_x: 3
     rotate_z: -2
+    no_tht: true
     zoom: 3
 - name: basic_render_3d_bottom_30deg
   comment: 3D bottom view from 30 degrees
@@ -1152,6 +1154,7 @@ outputs:
     silk: '#000000'
     solder_mask: '#ffffff'
     zoom: 9
+    no_tht: true
     view: bottom
 - name: basic_stencil_3d
   comment: 3D self-registering stencil

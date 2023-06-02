@@ -1536,6 +1536,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 90.17 185.42 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 8ed33960-f068-4d21-bc9e-95dfcf570ba7)
+    (property "Reference" "H4" (at 92.71 184.785 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Actuator Hole" (at 92.71 187.325 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Library:Actuator" (at 90.17 185.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 90.17 185.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "pedalboard-led-ring"
+        (path "/02aefeb1-bdda-4e04-a64a-6cb1fcf66702"
+          (reference "H4") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R") (at 16.51 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 936ab39a-3148-4785-8ef1-d62dc94c4f70)
