@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "Pedalboard neopixel Ring")
+    (title "Pedalboard LED Ring")
     (date "2023-05-29")
     (rev "1.0.0")
     (company "https://github.com/pedalboard")
@@ -1741,8 +1741,11 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 9a895f25-0347-47a7-a549-2115b79d9cc1))
   (gr_arc (start 93 46) (mid 93.707107 46.292893) (end 94 47)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cd39266b-9012-4b47-a44c-71a32766d027))
-  (gr_text "${TITLE}\n${COMPANY}\nBCB: ${REVISION}" (at 66.5 51) (layer "B.SilkS") (tstamp f552d1e6-8939-4c5f-b333-ac0cad47efd2)
-    (effects (font (size 1 1) (thickness 0.15)) (justify right bottom mirror))
+  (gr_text "PCB: ${REVISION}" (at 80 73.4) (layer "B.SilkS") (tstamp e9a3a019-b47a-403f-9511-fede2b4cc951)
+    (effects (font (size 0.5 0.5) (thickness 0.125)) (justify bottom mirror))
+  )
+  (gr_text "${TITLE}\n${COMPANY}" (at 79.8 48.4) (layer "B.SilkS") (tstamp f552d1e6-8939-4c5f-b333-ac0cad47efd2)
+    (effects (font (size 0.75 0.75) (thickness 0.15)) (justify bottom mirror))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 4d683484-d9eb-4610-ac1b-1c3c6ed7676d)
     (pts (xy 66 47) (xy 94 47))
