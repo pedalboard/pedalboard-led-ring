@@ -1101,7 +1101,7 @@ outputs:
     silk: '#000000'
     solder_mask: '#ffffff'
     no_tht: true
-    zoom: 6
+    zoom: 4
     height: 720
     width: 720
 - name: basic_render_3d_30deg
@@ -1146,7 +1146,7 @@ outputs:
     board: '#ffffff' 
     silk: '#000000'
     solder_mask: '#ffffff'
-    zoom: 6
+    zoom: 4
     no_tht: true
     view: bottom
     height: 720
