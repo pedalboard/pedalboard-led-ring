@@ -200,7 +200,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/9c35060f-5765-4f15-b6d1-b2d5edeba676")
     (attr smd)
     (fp_text reference "C4" (at 0 -1.05 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -253,7 +253,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/805b8140-70f9-4b60-bf76-89d93af5647a")
     (attr smd)
     (fp_text reference "C5" (at 0 -1.05 120) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -848,7 +848,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/0cde74d5-277e-43d1-9d49-46b4c40b89f3")
     (attr smd)
     (fp_text reference "C7" (at 0 -1.05) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -901,7 +901,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/885c5c27-aeeb-44c7-b1f9-e3454ca6bc0d")
     (attr smd)
     (fp_text reference "C8" (at 0 -1.05 30) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -954,7 +954,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/6d86f42d-e58d-49ed-8c52-3d9b3850668a")
     (attr smd)
     (fp_text reference "C9" (at 0 -1.05 60) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1067,7 +1067,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/8b25c7ff-3dee-46e0-a356-ffb55a76cf97")
     (attr smd)
     (fp_text reference "C11" (at 0 -1.05 120) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1120,7 +1120,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/c98b5198-c8ae-4e0d-b2cb-3195b25c1531")
     (attr smd)
     (fp_text reference "C6" (at 0 -1.05 150) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1173,7 +1173,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/c14d5878-c8c7-4161-b0f5-68a24afdc3bf")
     (attr smd)
     (fp_text reference "C10" (at 0 -1.05 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1352,7 +1352,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/241422ab-bf29-48f7-9dea-cdbff478129d")
     (attr smd)
     (fp_text reference "C2" (at 0 -1.05 30) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1478,7 +1478,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/51c1d094-47b1-4cf4-9921-e3a55988efa6")
     (attr smd)
     (fp_text reference "C12" (at 0 -1.05 150) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1761,7 +1761,7 @@
     (property "Supplier" "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
-    (path "/3fea678f-768a-4458-88d1-bc99723d7b77")
+    (path "/fa28797b-ecf4-4883-a0c9-34cbba9fc6b0")
     (attr smd)
     (fp_text reference "C3" (at 0 -1.05 60) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
