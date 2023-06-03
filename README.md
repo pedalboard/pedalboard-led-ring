@@ -1,4 +1,4 @@
-# An adressable RGB LED ring around foot button
+# An addressable RGB LED ring around foot button
 
 A pcb that can create a RGB color ring around a foot button.
 Each of the 12 LEDs on the ring can get an individual color.
