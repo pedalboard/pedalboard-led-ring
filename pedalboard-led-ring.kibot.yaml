@@ -1102,6 +1102,7 @@ outputs:
     no_tht: true
     zoom: 6
     height: 720
+    width: 720
 - name: basic_render_3d_30deg
   comment: 3D view from 30 degrees
   type: render_3d
@@ -1117,6 +1118,7 @@ outputs:
     no_tht: false
     zoom: 1
     height: 720
+    width: 720
 - name: basic_render_3d_bottom_30deg
   comment: 3D bottom view from 30 degrees
   type: render_3d
@@ -1132,6 +1134,7 @@ outputs:
     no_tht: false
     zoom: 1
     height: 720
+    width: 720
 - name: basic_render_3d_bottom
   comment: 3D view from bottom
   type: render_3d
@@ -1146,6 +1149,7 @@ outputs:
     no_tht: true
     view: bottom
     height: 720
+    width: 720
 - name: basic_stencil_3d
   comment: 3D self-registering stencil
   type: stencil_3d
