@@ -1115,7 +1115,7 @@ outputs:
     rotate_x: 3
     rotate_z: -2
     no_tht: false
-    zoom: 1.5
+    zoom: 1
     height: 720
 - name: basic_render_3d_bottom_30deg
   comment: 3D bottom view from 30 degrees
@@ -1130,7 +1130,7 @@ outputs:
     rotate_x: -14
     rotate_z: 2
     no_tht: false
-    zoom: 1.5
+    zoom: 1
     height: 720
 - name: basic_render_3d_bottom
   comment: 3D view from bottom
