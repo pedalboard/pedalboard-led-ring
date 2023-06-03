@@ -24,7 +24,7 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are
 ## Fabrication
 
 * [Generated iBOM](https://pedalboard.github.io/pedalboard-led-ring-site/Assembly/pedalboard-led-ring-ibom.html)
-* [Digi-Key shared list](https://www.digikey.ch/de/mylists/list/FIXME)
+* [Digi-Key shared list](https://www.digikey.ch/de/mylists/list/I3LZUQ0FSV)
 * [PCBWay manifacturing](https://www.pcbway.com/project/shareproject/FIXME.html)
 
 
