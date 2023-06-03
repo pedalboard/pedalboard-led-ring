@@ -30,6 +30,6 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are
 
 ## Additional mechanical components
 
-* Foot switch actuator: [Supplier](https://www.cliffuk.co.uk/products/switches/FC7125.pdf) [3D Model](https://github.com/pedalboard/pedalboard-case/blob/main/generated/actuator.stl)
+* Foot switch actuator: [Data Sheet](https://www.cliffuk.co.uk/products/switches/FC7125.pdf) [3D Model](https://github.com/pedalboard/pedalboard-case/blob/main/generated/actuator.stl)
 * Lens: [3D Model](https://github.com/pedalboard/pedalboard-case/blob/main/generated/led-ring-washer.stl) Potential [material](https://plastics-rubber.basf.com/global/de/performance_polymers/products/ultramid.html)
 
