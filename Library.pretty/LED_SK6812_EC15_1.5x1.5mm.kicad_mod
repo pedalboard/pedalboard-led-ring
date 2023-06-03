@@ -3,8 +3,8 @@
   (descr "http://www.newstar-ledstrip.com/product/20181119172602110.pdf")
   (tags "LED RGB NeoPixel")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -1.75) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 -1.4) (layer "F.SilkS") hide
+      (effects (font (size 0.5 0.5) (thickness 0.1) bold))
     (tstamp a84f5676-3889-436b-9571-02986637dba4)
   )
   (fp_text value "LED_SK6812_EC15_1.5x1.5mm" (at 0 1.75) (layer "F.Fab")
