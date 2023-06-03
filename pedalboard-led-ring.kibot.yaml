@@ -1115,7 +1115,7 @@ outputs:
     silk: '#000000'
     solder_mask: '#ffffff'
     no_tht: true
-    zoom: 9
+    zoom: 6
 - name: basic_render_3d_30deg
   comment: 3D view from 30 degrees
   type: render_3d
@@ -1128,8 +1128,8 @@ outputs:
     solder_mask: '#ffffff'
     rotate_x: 3
     rotate_z: -2
-    no_tht: true
-    zoom: 3
+    no_tht: false
+    zoom: 2
 - name: basic_render_3d_bottom_30deg
   comment: 3D bottom view from 30 degrees
   type: render_3d
@@ -1142,7 +1142,8 @@ outputs:
     solder_mask: '#ffffff'
     rotate_x: -14
     rotate_z: 2
-    zoom: 3
+    no_tht: false
+    zoom: 2
 - name: basic_render_3d_bottom
   comment: 3D view from bottom
   type: render_3d
@@ -1153,7 +1154,7 @@ outputs:
     board: '#ffffff' 
     silk: '#000000'
     solder_mask: '#ffffff'
-    zoom: 9
+    zoom: 6
     no_tht: true
     view: bottom
 - name: basic_stencil_3d
