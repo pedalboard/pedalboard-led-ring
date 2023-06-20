@@ -7,6 +7,7 @@ The led rings can be cascaded and addressed via a single serial line.
 There are multiple connector ports:
 
 - 2 x SMD Sockets (2mm, 4 Pins) in the center line and in the corner
+- There is a solution to drive the LED ring from 3.3V, however the 1st LED have a bit lower intensity.
 
 
 | Top View | Bottom View  |
