@@ -1,21 +1,20 @@
 # An addressable RGB LED ring around foot button
 
 A pcb that can create a RGB color ring around a foot button.
-Each of the 12 LEDs on the ring can get an individual color.
-The led rings can be cascaded and addressed via a single serial line.
 
-There are multiple connector ports:
+Features:
 
-- 2 x SMD Sockets (2mm, 4 Pins) in the center line and in the corner
-- There is a solution to drive the LED ring from 3.3V, however the 1st LED have a bit lower intensity.
+- Each of the 12 LEDs on the ring can get an individual color.
+- The led rings can be cascaded and addressed via a single serial line.
+- Multiple connector options: 2 x SMD Sockets (2mm, 4 Pins) in the center line and in the corner
+- Optional solution to drive the LED ring directly from 3.3V data pin, however the 1st LED have a bit lower intensity.
 
+See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED ring is used to represent the LUVS loudness value of signal.
 
 | Top View | Bottom View  |
 | -------- | ------------ |
 | ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg-bottom.png)  |
 | ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_bottom.png) |
-
-
 
 
 ## Generated Hardware Documentation
