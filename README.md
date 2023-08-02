@@ -1,6 +1,9 @@
 # An addressable RGB LED ring around foot button
 
-A pcb that can create a RGB color ring around a foot button.
+| Open Source Hardware | OSHWA Certification|
+|---|---|
+| ![](https://i0.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-200-px.png) | [<img src="img/certification-mark-CH000019-stacked.png" alt="OSHWA" width="200"/>](https://certification.oshwa.org/ch000019.html) |
+
 
 Features:
 
