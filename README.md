@@ -38,5 +38,5 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site/v1.0
 
 ## Release
 
-The release procedure is the same as for [../../pedalboard-hw](pedalboard-hw)
+The release procedure is the same as for [pedalboard-hw](../pedalboard-hw)
 
