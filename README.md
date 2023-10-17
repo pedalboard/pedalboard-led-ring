@@ -16,8 +16,8 @@ See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED rin
 
 | Top View | Bottom View  |
 | -------- | ------------ |
-| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg-bottom.png)  |
-| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_bottom.png) |
+| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/v1.0.0/3D/pedalboard-led-ring-3D_top30deg.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/3D/pedalboard-led-ring-3D_top30deg-bottom.png)  |
+| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/v1.0.0/3D/pedalboard-led-ring-3D_top.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/v1.0.0/3D/pedalboard-led-ring-3D_bottom.png) |
 
 
 ## Generated Hardware Documentation
