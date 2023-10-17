@@ -22,7 +22,7 @@ See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED rin
 
 ## Generated Hardware Documentation
 
-Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
+Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site/v1.0.0) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
 
 ## Fabrication
 
@@ -38,30 +38,5 @@ Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site) are
 
 ## Release
 
-The release procedure is not yet fully automated. Please follow below steps:
-
-1. Bump Version
-  - In Schematic Editor: File -> Page Settings -> Update Issue Date and Revision (with export to other sheets)
-  - In PCB Editor: File -> Page Settings -> Update Issue Date and Revision
-  - Update CHANGES.md (release date)
-  - Update README.md
-     - link the versioned docs.
-     - link to a (optinally new) Digikey revision
-
-2. Create a Tag and push it.
-
-3. Create a release.
-  - Generate Release Notes
-  - Add the relevant content from CHANGES.md
-  - Download the generated_output.zip file from the tagged Action run
-  - Add the version to generated_output-x.y.z.zip
-  - Upload the zip as artifact of the release
-
-4. Tag the pedalboard-hw-site commit of the tagged Action run.
-  - Add a link to the tag on pedalboard-hw-site also in the release description
-  - copy the tagged files into a subdirectory
-
-5. Bump the version on main to RC1 (as described above)
-  - Change old version for diff on pedalboard-hw.kibot.yaml (2 lines!)
-  - Add a new Release in CHANGES.md
+The release procedure is the same as for ../pedalboard-hw
 
