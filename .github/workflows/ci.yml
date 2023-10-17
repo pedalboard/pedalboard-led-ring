@@ -58,5 +58,6 @@ jobs:
       with:
         branch: main
         folder: generated
+        target-folder: latest
         repository-name: pedalboard/pedalboard-led-ring-site
         token: ${{ secrets.DEPLOY_TO_PEDALBOARD_LED_RING_SITE }}
