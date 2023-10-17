@@ -2,6 +2,9 @@
 
 ## [1.1.0] - Lumen PnP - TBD
 
+### Added
+- Add Fiducials for PnP
+
 ### Changed
 - Rounded edge cuts
 - Use 0402 components for Lumen PnP
