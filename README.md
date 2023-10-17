@@ -9,7 +9,7 @@ Features:
 
 - Each of the 12 LEDs on the ring can get an individual color.
 - The led rings can be cascaded and addressed via a single serial line.
-- Multiple connector options: 2 x SMD Sockets (2mm, 4 Pins) in the center line and in the corner
+- Connector options: SMD Sockets (2mm, 4 Pins)
 - Optional solution to drive the LED ring directly from 3.3V data pin, however the 1st LED have a bit lower intensity.
 
 See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED ring is used to represent the LUVS loudness value of signal.
