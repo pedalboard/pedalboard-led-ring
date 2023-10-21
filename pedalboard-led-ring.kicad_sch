@@ -2232,6 +2232,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:Fiducial") (at 67.31 182.88 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e77c6752-23c5-4d5b-afaa-89f8e31bae5a)
+    (property "Reference" "FID3" (at 69.85 181.61 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Fiducial" (at 69.85 184.15 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm" (at 67.31 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 67.31 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "pedalboard-led-ring"
+        (path "/02aefeb1-bdda-4e04-a64a-6cb1fcf66702"
+          (reference "FID3") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "pedalboard-led-ring:SK6812") (at 129.54 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f69cd4e5-1a79-4dbc-98cb-eb3d4b38370e)
