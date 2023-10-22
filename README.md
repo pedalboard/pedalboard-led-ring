@@ -22,6 +22,8 @@ See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED rin
 
 ## Generated Hardware Documentation
 
+Interactive [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpedalboard%2Fpedalboard-led-ring%2Ftree%2Fmain) viewer.
+
 Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site/latest) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
 
 ## Fabrication
