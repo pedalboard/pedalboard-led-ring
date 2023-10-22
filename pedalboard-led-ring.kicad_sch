@@ -1195,8 +1195,8 @@
     (uuid fe3e33fe-4f44-4a19-b1f2-e14faebdfb5b)
   )
 
-  (text "A hacky way of level conversion\nhttps://www.electrobob.com/ws2812-level-translator/"
-    (at 59.69 24.13 0)
+  (text "An optional hacky way of level conversion\nhttps://www.electrobob.com/ws2812-level-translator/"
+    (at 57.15 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f623a1cd-647e-4723-8be6-b09d236dd38a)
   )
