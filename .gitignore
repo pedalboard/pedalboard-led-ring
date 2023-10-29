@@ -28,9 +28,6 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-
 ### KiCad Patch ###
 rescue-backup/
 
