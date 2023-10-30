@@ -10,11 +10,11 @@
          <check-fids>true</check-fids>
          <fiducials>
             <placement version="1.4" id="PanelFid1" side="Top" part-id="FIDUCIAL-HOME" type="Fiducial" enabled="true">
-               <location units="Millimeters" x="16.5" y="-2.0" z="0.0" rotation="179.13618980060286"/>
+               <location units="Millimeters" x="16.5" y="-2.0" z="0.0" rotation="179.1061516388845"/>
                <error-handling>Alert</error-handling>
             </placement>
             <placement version="1.4" id="PanelFid2" side="Top" part-id="FIDUCIAL-HOME" type="Fiducial" enabled="true">
-               <location units="Millimeters" x="-16.5" y="27.0" z="0.0" rotation="179.13618980060286"/>
+               <location units="Millimeters" x="-16.5" y="-2.0" z="0.0" rotation="179.1061516388845"/>
                <error-handling>Alert</error-handling>
             </placement>
          </fiducials>
@@ -22,7 +22,7 @@
    </panels>
    <board-locations>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="208.2619582831553" y="247.07371173734487" z="9.0" rotation="179.1061516388845"/>
+         <location units="Millimeters" x="208.06079645133713" y="247.3936239106782" z="9.0" rotation="-179.82682690980576"/>
          <placed class="java.util.HashMap">
             <entry>
                <string>D1</string>
@@ -31,7 +31,7 @@
          </placed>
       </board-location>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="207.85635921618908" y="221.0768755952895" z="9.0" rotation="179.1061516388845"/>
+         <location units="Millimeters" x="208.13937978728526" y="221.3937426675011" z="9.0" rotation="-179.82682690980576"/>
          <placed class="java.util.HashMap">
             <entry>
                <string>D1</string>
