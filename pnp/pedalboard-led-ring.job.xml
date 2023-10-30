@@ -22,19 +22,147 @@
    </panels>
    <board-locations>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="208.06079645133713" y="247.3936239106782" z="9.0" rotation="-179.82682690980576"/>
+         <location units="Millimeters" x="208.09423543770075" y="247.39465560189038" z="9.0" rotation="-179.84616793994527"/>
          <placed class="java.util.HashMap">
             <entry>
+               <string>C11</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C10</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C12</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
                <string>D1</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C1</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D2</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C2</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D3</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C3</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D4</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C4</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C5</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C6</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C7</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C8</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C9</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>R1</string>
                <boolean>false</boolean>
             </entry>
          </placed>
       </board-location>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="208.13937978728526" y="221.3937426675011" z="9.0" rotation="-179.82682690980576"/>
+         <location units="Millimeters" x="208.16404212835317" y="221.39474931309888" z="9.0" rotation="-179.84616793994527"/>
          <placed class="java.util.HashMap">
             <entry>
+               <string>C11</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C10</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C12</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
                <string>D1</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C1</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D2</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C2</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D3</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C3</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>D4</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C4</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C5</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C6</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C7</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C8</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>C9</string>
+               <boolean>false</boolean>
+            </entry>
+            <entry>
+               <string>R1</string>
                <boolean>false</boolean>
             </entry>
          </placed>
