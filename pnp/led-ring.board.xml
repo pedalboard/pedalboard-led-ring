@@ -2,51 +2,51 @@
    <dimensions units="Millimeters" x="24.0" y="24.0" z="0.0" rotation="0.0"/>
    <fiducials/>
    <placements>
-      <placement version="1.4" id="C1" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C1" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="9.15" y="1.35" z="0.0" rotation="0.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C2" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C2" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="7.0673" y="5.6391" z="0.0" rotation="-150.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C3" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C3" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="3.3009" y="8.4173" z="0.0" rotation="-120.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C4" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C4" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-1.35" y="8.94" z="0.0" rotation="-90.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C5" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C5" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-5.6391" y="7.0673" z="0.0" rotation="-60.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C6" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C6" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-8.4173" y="3.3009" z="0.0" rotation="-30.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C7" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C7" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-8.94" y="-1.35" z="0.0" rotation="0.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C8" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C8" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-7.0673" y="-5.6391" z="0.0" rotation="30.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C9" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C9" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="-3.3009" y="-8.4173" z="0.0" rotation="60.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C10" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C10" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="1.35" y="-8.94" z="0.0" rotation="90.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C11" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C11" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="5.6391" y="-7.0673" z="0.0" rotation="120.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="C12" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="C12" side="Top" part-id="1uF_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="8.4173" y="-3.3009" z="0.0" rotation="150.0"/>
          <error-handling>Alert</error-handling>
       </placement>
@@ -102,7 +102,7 @@
          <location units="Millimeters" x="8.7725" y="2.85" z="0.0" rotation="0.0"/>
          <error-handling>Alert</error-handling>
       </placement>
-      <placement version="1.4" id="R1" side="Top" type="Placement" enabled="true">
+      <placement version="1.4" id="R1" side="Top" part-id="330R_0402" type="Placement" enabled="true">
          <location units="Millimeters" x="8.91" y="-1.68" z="0.0" rotation="180.0"/>
          <error-handling>Alert</error-handling>
       </placement>

@@ -22,7 +22,7 @@
    </panels>
    <board-locations>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="208.28922608872523" y="247.04764103617907" z="9.0" rotation="179.1239386496555"/>
+         <location units="Millimeters" x="208.2619582831553" y="247.07371173734487" z="9.0" rotation="179.1061516388845"/>
          <placed class="java.util.HashMap">
             <entry>
                <string>D1</string>
@@ -31,7 +31,7 @@
          </placed>
       </board-location>
       <board-location side="Top" board-file="led-ring.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
-         <location units="Millimeters" x="207.89169754843303" y="221.0506802318917" z="9.0" rotation="179.1239386496555"/>
+         <location units="Millimeters" x="207.85635921618908" y="221.0768755952895" z="9.0" rotation="179.1061516388845"/>
          <placed class="java.util.HashMap">
             <entry>
                <string>D1</string>
