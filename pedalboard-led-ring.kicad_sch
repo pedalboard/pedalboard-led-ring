@@ -11,7 +11,7 @@
     (company "https://github.com/pedalboard")
     (comment 1 "Source Code: https://github.com/pedalboard/pedalboard-neopixel-ring")
     (comment 2 "License: CERN Open Hardware Licence Version 2 - Permissive")
-    (comment 3 "Git commit: {GIT_HASH}")
+    (comment 3 "Git commit: ${GIT_HASH}")
   )
 
   (lib_symbols
