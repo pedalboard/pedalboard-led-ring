@@ -12,6 +12,7 @@
     (company "https://github.com/pedalboard")
     (comment 1 "Source Code: https://github.com/pedalboard/pedalboard-led-ring")
     (comment 2 "License: CERN Open Hardware Licence Version 2 - Permissive")
+    (comment 3 "Git commit: {GIT_HASH}")
   )
 
   (layers
@@ -2154,7 +2155,7 @@
   (gr_text "VCC" (at 90.39 54.34 90) (layer "B.SilkS") (tstamp bbae7ead-ec96-4419-af07-bd2260977052)
     (effects (font (size 0.6 0.6) (thickness 0.1)) (justify left bottom mirror))
   )
-  (gr_text "PCB: v${REVISION}" (at 79.66 71.13) (layer "B.SilkS") (tstamp e9a3a019-b47a-403f-9511-fede2b4cc951)
+  (gr_text "PCB: v${REVISION} \n{GIT_HASH}" (at 79.95 70.64) (layer "B.SilkS") (tstamp e9a3a019-b47a-403f-9511-fede2b4cc951)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify bottom mirror))
   )
   (gr_text "${TITLE}" (at 79.73 51.62) (layer "B.SilkS") (tstamp f552d1e6-8939-4c5f-b333-ac0cad47efd2)
