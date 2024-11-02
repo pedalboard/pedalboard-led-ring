@@ -32,6 +32,7 @@ fp-info-cache
 rescue-backup/
 
 *.tsv
+*.lck
 bom/
 
 # Gerber export output
