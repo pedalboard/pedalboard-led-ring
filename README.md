@@ -16,19 +16,19 @@ See a [live demo](https://www.youtube.com/watch?v=p5gpGeihErE) where the LED rin
 
 | Top View | Bottom View  |
 | -------- | ------------ |
-| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/latest/3D/pedalboard-led-ring-3D_top30deg.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/latest/3D/pedalboard-led-ring-3D_top30deg-bottom.png)  |
-| ![30 deg](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/latest/3D/pedalboard-led-ring-3D_top.png) | ![30 deg bottom](https://github.com/pedalboard/pedalboard-led-ring-site/blob/main/latest/3D/pedalboard-led-ring-3D_bottom.png) |
+| ![30 deg](https://pedalboard.github.io/pedalboard-led-ring/latest/3D/pedalboard-led-ring-3D_top30deg.png) | ![30 deg bottom](https://pedalboard.github.io/pedalboard-led-ring/latest/3D/pedalboard-led-ring-3D_top30deg-bottom.png)  |
+| ![30 deg](https://pedalboard.github.io/pedalboard-led-ring/latest/3D/pedalboard-led-ring-3D_top.png) | ![30 deg bottom](https://pedalboard.github.io/pedalboard-led-ring/latest/3D/pedalboard-led-ring-3D_bottom.png) |
 
 
 ## Generated Hardware Documentation
 
 Interactive [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fpedalboard%2Fpedalboard-led-ring%2Ftree%2Fmain) viewer.
 
-Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring-site/latest) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
+Downloadable [Assets](https://pedalboard.github.io/pedalboard-led-ring/latest) are generated with [KiBot](https://github.com/INTI-CMNB/KiBot)
 
 ## Fabrication
 
-* [Generated iBOM](https://pedalboard.github.io/pedalboard-led-ring-site/Assembly/pedalboard-led-ring-ibom.html)
+* [Generated iBOM](https://pedalboard.github.io/pedalboard-led-ring/latest/Assembly/pedalboard-led-ring-ibom.html)
 * [Digi-Key shared list](https://www.digikey.ch/de/mylists/list/I3LZUQ0FSV)
 * [PCBWay manifacturing](https://www.pcbway.com/project/shareproject/FIXME.html)
 
